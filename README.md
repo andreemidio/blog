@@ -1,1 +1,1 @@
-<h1>Estudo de IA de newbie para newbie</h1>
+<h1><center>Estudo de IA de newbie para newbie</center></h1>
