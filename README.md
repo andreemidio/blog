@@ -16,4 +16,4 @@
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-<h1><center>Estudo de IA de newbie para newbie</center></h1>
+<h1><center>Estudo de IA de "Noob" para "Noob"</center></h1>
