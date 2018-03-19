@@ -17,3 +17,9 @@
 <!-- End Facebook Pixel Code -->
 
 <h1><center>Estudo de IA de "Noob" para "Noob"</center></h1>
+
+
+Primeiro projeto sobre machine learning não poderia ser o melhor dataset para aprendizado o <a href></a>
+
+<a href='https://github.com/andreemidio/blog/blob/master/ManipulandoDados.ipynb'>Manipulando os dados e entendendo os dados</a>
+<a href='https://github.com/andreemidio/blog/blob/master/aprendizadoDeMaquina.ipynb'>Aplicando Machine Learning</a>
